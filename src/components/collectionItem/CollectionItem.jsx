@@ -1,4 +1,4 @@
-import React from "react";
+   import React from "react";
 import "./CollectionItem.scss";
 
 function CollectionItem({ id, name, price, imageUrl }) {
